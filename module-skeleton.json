@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-coding-suggestions-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-coding-suggestions",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_coding_suggestions_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/coding-suggestions.md",
+  "presentationPlan": "projects/accounting/flutter/coding-suggestions.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
